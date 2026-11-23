@@ -13,7 +13,7 @@ Hey, I build applications, developer tools, and AI-powered products.
 * Development: GitHub, Xcode, web development tools
 * Interests: Artificial Intelligence, APIs, App Development, Automation, Software Engineering
 
-📌 Featured Projects
+📌 Featured Projects:
 Explore my repositories to see the applications, tools, and products I'm working on.
 
 🎯 Currently Exploring
