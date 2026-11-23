@@ -1,16 +1,26 @@
-## Hi there 👋
+Hey, I build applications, developer tools, and AI-powered products. 
 
-<!--
-**buddy16800/buddy16800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Working On
+* Building applications and digital products
+* Exploring AI and AI-powered technologies
+* Creating useful tools and solving problems through software
+* Experimenting with new ideas and technologies
+* Developing my understanding of software engineering
+* Learning how to market and ship iOS apps
 
-Here are some ideas to get you started:
+🛠️ Tools & Technologies
+* AI Development: OpenCode, AI coding assistants
+* Development: GitHub, Xcode, web development tools
+* Interests: Artificial Intelligence, APIs, App Development, Automation, Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects
+Explore my repositories to see the applications, tools, and products I'm working on.
+
+🎯 Currently Exploring
+* AI-assisted software development
+* Artificial intelligence and language models
+* Application design and development
+* APIs and software integrations
+* Programming and software engineering fundamentals
+* Machine Learning
+* iOS App Development
